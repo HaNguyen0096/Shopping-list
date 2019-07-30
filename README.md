@@ -1,0 +1,1 @@
+ Create an application that allows users to add, check, uncheck, and remove items from a shopping list.
